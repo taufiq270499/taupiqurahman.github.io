@@ -301,7 +301,7 @@ li .box-left h4, li .box-right h4{
 }
 li .box-left p, li .box-right p{
     margin-bottom: 20px;
-    text-align: justify;
+    
     color: var(--texto);
     line-height: 1.4rem;
 }
