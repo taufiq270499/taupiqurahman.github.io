@@ -801,8 +801,6 @@ li .box-left img, li .box-right img{
         font-size: .8rem;
     }
 
-
-
     /* -- EDUCACION --*/
 
     .educacion .timeline:before{
@@ -833,7 +831,7 @@ li .box-right:before,{
 }
 
 li .box-left img, li .box-right img{
-    max-width: 140px;
+    max-width: 120px;
     filter: grayscale(0);   
 }
 
