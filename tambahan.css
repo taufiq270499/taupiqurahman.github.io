@@ -811,8 +811,7 @@ li .box-left img, li .box-right img{
     }
 
     .educacion .box-left, .educacion .box-right{
-        width: 85%;
-        float: right;
+        display: none;
     }
 
     .box-left .check, .box-right .check{
