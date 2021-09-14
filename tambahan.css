@@ -699,7 +699,9 @@ header .menu ul{
 }
 
 .educacion .box-left, .educacion .box-right{
-    display: none;
+    margin-bottom: 20px;
+    width: 92%;
+    float: right;
 }
 
 
@@ -811,7 +813,8 @@ li .box-left img, li .box-right img{
     }
 
     .educacion .box-left, .educacion .box-right{
-        display: none;
+        width: 85%;
+        float: right;
     }
 
     .box-left .check, .box-right .check{
