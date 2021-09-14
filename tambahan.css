@@ -699,9 +699,7 @@ header .menu ul{
 }
 
 .educacion .box-left, .educacion .box-right{
-    margin-bottom: 20px;
-    width: 92%;
-    float: right;
+    display: none;
 }
 
 
