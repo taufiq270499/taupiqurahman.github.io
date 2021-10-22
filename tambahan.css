@@ -710,7 +710,7 @@ header .menu ul{
 }
 
 li .box-left:before{
-    right: 100%;
+    right: auto;
     border-top: 15px solid transparent;
     border-left: 0px solid #ccc;
     border-right: 15px solid #fff;
