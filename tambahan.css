@@ -823,8 +823,8 @@ li .box-left img, li .box-right img{
 
 li .box-left:before,{
     right: 0;
-    border-left: 15px solid #ccc;
-    border-right: 0 solid #fff;
+    border-left: 0 solid #ccc;
+    border-right: 15px solid #fff;
    
 }
 
