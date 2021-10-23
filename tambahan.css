@@ -821,7 +821,7 @@ li .box-left img, li .box-right img{
         display: none;
     }
 
-li .box-left:after,{
+li .box-left:before,{
     left: -15px;
     border-left: 0 solid #ccc;
     border-right: 15px solid #fff;
